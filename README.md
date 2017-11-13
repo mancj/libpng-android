@@ -1,5 +1,8 @@
 libpng for Android 
 ==================
+
+![android](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPixoya49-wnwEtxTJsl0x8coazx8VuT2C_PulSh74jkytszLp)
+
 This is a repackaging of libpng 1.6.29 for Android.
 
 Most changes went in config.h and writing the Makefiles.
