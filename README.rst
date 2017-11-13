@@ -19,3 +19,5 @@ You might also be interested in lodepng_
 
 .. _wiki: https://github.com/julienr/libpng-android/wiki
 .. _lodepng: https://github.com/lvandeve/lodepng
+
+How to use: https://stackoverflow.com/questions/42260434/buildinglinking-libpng-in-android-studio-with-cmake-on-windows/42456604#42456604
